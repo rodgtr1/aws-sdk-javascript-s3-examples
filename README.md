@@ -1,4 +1,4 @@
-### This is the reference code for blog post: 
+### This is the reference code for blog post: [https://travis.media/navigating-s3-using-aws-sdk-for-javascript/](https://travis.media/navigating-s3-using-aws-sdk-for-javascript/)
 
 To get started:
 
